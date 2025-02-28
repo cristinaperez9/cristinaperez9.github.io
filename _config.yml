@@ -84,6 +84,13 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+linkedin_username: cristina-almagro-pérez-8620ba1b6 
+scholar_userid: OugH7SUAAAAJ&hl 
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
