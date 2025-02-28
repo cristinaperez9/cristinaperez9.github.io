@@ -12,8 +12,6 @@ profile:
   more_info: >
     <p>calmagro@mit.edu</p>
 
- 
-
 news: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,4 +29,4 @@ latest_posts:
 
 I am currently a doctoral student in the Health Sciences and Technology Department of Massachusetts Institute of Technology (MIT) and Harvard Medical School, working with Professor [Faisal Mahmood](https://faisal.ai/) and Postdoctoral Fellow Dr. [Andrew Song](https://andrewsong90.github.io/) on 3D multimodal computational pathology.
 
-Previously, I received a MSc. in Biomedical Engineering from ETH Zurich university in August 2023, with the master thesis focused on synchrotron-based phase-contrast microCT co-advised by [Marco Stampanoni](https://ee.ethz.ch/the-department/people-a-z/person-detail.NTg3ODU=.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html) and [Goran Lovric](https://blog.gnudo.com/). In July 2021, I received a Bachelor also in Biomedical Engineering from Carlos III de Madrid University. The Bachelor thesis was focused on 3D computational pathology for analysing the immune microenvironment of pancreatic cancer and was a collaboration with Johns Hopkins University co-supervised by Professors [Arrate Muñoz](https://image.hggm.es/es/arrate-munoz), [Denis Wirtz](https://engineering.jhu.edu/faculty/denis-wirtz/), and [Ashley Kiemen](https://inbt.jhu.edu/people/ashley-kiemen/). I also graduated as a professional clarinetist after 10 years of classical music education.
+Previously, I received a MSc. in Biomedical Engineering from ETH Zurich university in August 2023, with the master thesis focused on synchrotron-based phase-contrast microCT co-advised by Professor [Marco Stampanoni](https://ee.ethz.ch/the-department/people-a-z/person-detail.NTg3ODU=.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html) and Dr. [Goran Lovric](https://blog.gnudo.com/). In July 2021, I received a Bachelor also in Biomedical Engineering from Carlos III de Madrid University. The Bachelor thesis was focused on 3D computational pathology for analysing the immune microenvironment of pancreatic cancer and was a collaboration with Johns Hopkins University co-supervised by Professors [Arrate Muñoz](https://image.hggm.es/es/arrate-munoz), [Denis Wirtz](https://engineering.jhu.edu/faculty/denis-wirtz/), and [Ashley Kiemen](https://inbt.jhu.edu/people/ashley-kiemen/). I also graduated as a professional clarinetist after 10 years of classical music education.
