@@ -23,33 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-news",
           title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-publications",
               title: "publications",
@@ -425,7 +404,7 @@ ninja.data = [{
         
       },
     },{id: "news-a-preprint-for-ai-driven-3d-spatial-transcriptomics-prediction-vortex-is-available",
-          title: 'A preprint for AI-driven 3D spatial transcriptomics prediction VORTEX is available.',
+          title: 'A preprint for AI-driven 3D spatial transcriptomics prediction VORTEX is available!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
