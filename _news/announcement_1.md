@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A preprint for AI-driven 3D spatial transcriptomics prediction [VORTEX](https://arxiv.org/abs/2502.17761) is available.
+A preprint for AI-driven 3D spatial transcriptomics prediction [VORTEX](https://arxiv.org/abs/2502.17761) is available!
