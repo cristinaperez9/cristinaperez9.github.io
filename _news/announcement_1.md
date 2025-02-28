@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-02-27 11:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+A preprint for AI-driven 3D spatial transcriptomics prediction [VORTEX](https://arxiv.org/abs/2502.17761) is available.
