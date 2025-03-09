@@ -5,13 +5,21 @@ title: About
 permalink: /
 subtitle: Doctoral student @ Harvard-MIT Health Sciences and Technology Department
 
+# profile:
+#   align: right
+#   image: prof.png
+#   image_circular: true # crops the image to make it circular
+#   more_info: >
+#       <p>        calmagro@mit.edu</p>
+
 profile:
   align: right
   image: prof.png
-  image_circular: true # crops the image to make it circular
+  image_circular: true  # crops the image to make it circular
   more_info: >
-      <p>        calmagro@mit.edu</p>
-
+      <div style="text-align: center;">
+          <p>calmagro@mit.edu</p>
+      </div>
 
 news: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
