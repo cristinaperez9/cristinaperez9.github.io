@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A preprint for foundation model for spatial proteomics [KRONOS](https://arxiv.org/abs/2506.03373) is available!
+A preprint for a Foundation Model for Spatial Proteomics [KRONOS](https://arxiv.org/abs/2506.03373) is available!
 

@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-We received a grant from [Yosemite](https://yosemite.co/) to explore the clinical capabilities of [VORTEX] (https://arxiv.org/abs/2502.17761), our 3D Spatial Transcriptomics framework.
+We received a grant from [Yosemite](https://yosemite.co/) to explore the clinical capabilities of [VORTEX](https://arxiv.org/abs/2502.17761), our 3D Spatial Transcriptomics framework.
 
 
 
