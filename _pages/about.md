@@ -14,7 +14,7 @@ subtitle: Doctoral student @ Harvard-MIT Health Sciences and Technology Departme
 
 profile:
   align: right
-  image: prof.png
+  image: prof.jpg
   image_circular: true  # crops the image to make it circular
   more_info: >
       <div style="text-align: center;">
