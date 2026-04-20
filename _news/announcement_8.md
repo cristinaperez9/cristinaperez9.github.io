@@ -6,7 +6,7 @@ related_posts: false
 ---
 
 
-Our work on *3D immune microenvironment mapping in pancreatic cancer* is published in [Cancer Cell Blue](https://www.cell.com/cell-press-blue/fulltext/S3051-3839(26)00006-X)!
+Our work on [*3D immune microenvironment mapping in pancreatic cancer*] (https://www.cell.com/cell-press-blue/fulltext/S3051-3839(26)00006-X) is published in **Cancer Cell Blue**!
 
 
 
