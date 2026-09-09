@@ -6,7 +6,7 @@ related_posts: false
 ---
 
 A preprint for *A Unified Systematic Benchmark for Virtual Spatial
-Transcriptomics from Histopathology Images* [STP-Bench](https://arxiv.org/abs/2602.14177) is available!
+Transcriptomics from Histopathology Images* [STP-Bench](https://arxiv.org/abs/2609.05956) is available!
 
 
 
